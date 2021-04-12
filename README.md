@@ -3,9 +3,11 @@ A Plugin for a Minecraft Server I've developed that coincides with features and 
 
 
 # Key Finder
-<img align="center" src="https://user-images.githubusercontent.com/43652359/114434717-38427080-9bbb-11eb-953e-f3522de91f98.png" /><br>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/43652359/114434717-38427080-9bbb-11eb-953e-f3522de91f98.png" /><br>
+ </p>
 The plugin spawns in a randomly generated Key in one of mutiple chests, which allows the player to open a door using the 
-BigDoors plugin: https://www.spigotmc.org/resources/big-doors.58669/
+[BigDoors plugin](https://www.spigotmc.org/resources/big-doors.58669/)
 Once the key has been removed from the chest, a timer starts for 1 hour when another key will spawn in one of the other chests scattered around the area.
 
 # Special Warp
