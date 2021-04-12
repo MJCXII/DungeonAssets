@@ -13,5 +13,7 @@ Once the key has been removed from the chest, a timer starts for 1 hour when ano
 </p>
 
 # Special Warp
+<img src="https://user-images.githubusercontent.com/43652359/114438390-9c673380-9bbf-11eb-9263-0c1b3c26dd85.png" ><br>
+
 When a player has finished in a dungeon, if he is to right click a specific block with the correct conditions met (this includes right clicking the block with another specific block in his hand)
 the player is then warped to another location, with a sound effect played on arrival, and a title screen to congratulate the player on completeing the Dungeon.
